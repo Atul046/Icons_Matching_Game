@@ -1,5 +1,7 @@
 # Icons Matching Game
 
+## <b> [Click here to Play the GAME!!](https://atul046.github.io/Icons_Matching_Game/)
+
 This project is made using HTML,CSS &amp; JavaScript.
 
 It's a simple online memory matching game, which contains various levels.
